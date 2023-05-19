@@ -92,6 +92,7 @@ img{
 .btn-one:hover{
   background-color: var(--sedan);
   color: white;
+  cursor: pointer;
 }
 
 .btn-one{
@@ -109,6 +110,7 @@ color:var(--suvs) ;
 .btn-two:hover {
   background-color: var(--suvs);
   color: white;
+  cursor: pointer;
 }
 
 .card-three{
@@ -124,6 +126,7 @@ color:var(--suvs) ;
 .btn-three:hover {
   background-color: var(--luxury);
   color: white;
+  cursor: pointer;
 }
 
 
